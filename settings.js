@@ -9,12 +9,12 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "4917528215499"
-global.ownername = "*Hans Tech"
+global.ownername = "*Avast Str"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
+global.ownernumber = '4917528216499'  //creator number
 global.ownername = 'Harold MTH' //owner name
 global.botname = 'Hans-Bug-bot' //name of the bot
 
