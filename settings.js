@@ -8,8 +8,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
+global.ownernomer = "4917528216499"
+global.ownername = "*Avast Modz"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
